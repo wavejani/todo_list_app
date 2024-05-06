@@ -1,1 +1,3 @@
-# coding-project-template
+# todo-list-app
+
+IBM fullstack course project
